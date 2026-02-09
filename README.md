@@ -2,3 +2,4 @@
 Gitflow Demo for 2025.2 Project Management class
 
 PR-01 - finish cadastro
+PR-02: adicionando o login

@@ -1,0 +1,20 @@
+{
+  "name": "2025_2_gp_gitflow_demo",
+  "version": "1.0.0",
+  "description": "Gitflow Demo for 2025.2 Project Management class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo-rac2/2025_2_gp_gitflow_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo-rac2/2025_2_gp_gitflow_demo/issues"
+  },
+  "homepage": "https://github.com/rodrigo-rac2/2025_2_gp_gitflow_demo#readme"
+}
